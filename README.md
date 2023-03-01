@@ -1,5 +1,6 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Golang
-- 💬 Ask me about DevOps/SRE
-- 📫 How to reach me: https://twitter.com/yuvraj_singh9
+- 👨‍💻 DevOps engineer with a passion for automation and process improvement
+- 🚀 Skilled in cloud infrastructure, containerization, and CI/CD
+- 👨‍👩‍👧‍👦 Collaborative team player focused on enabling high-quality software delivery
